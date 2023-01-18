@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Learning_C++",
+			"path": "..\\..\\..\\..\\..\\Jared\\Desktop\\ICOM4015\\Learning_C++"
+		},
+		{
+			"name": "Prelabs",
+			"path": "..\\..\\..\\..\\..\\Jared\\Desktop\\ICOM4015\\Prelabs"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Jared\\Desktop\\ICOM4015\\Lecture1"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp"
+		}
+	}
+}
