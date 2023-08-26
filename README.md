@@ -1,5 +1,5 @@
 # Project_01
-# Audio Visualiser Simulator 
+# Audio Visualiser Simulator Project
 
 ## Objective
 
