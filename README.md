@@ -34,12 +34,3 @@ When compiled and run, the base application provided four simulation modes. The 
 ### Bonus Features (Whenever Possible)
 
 The assignment encouraged creativity and uniqueness in enhancing the application. Students had the opportunity to propose bonus features that significantly improved the application, with the potential to earn bonus points. Examples of bonus features included adding new modes, introducing different shapes for particles, creating a playlist of random replay sequences, or implementing a GUI to control certain actions.
-
-## Project Notes
-
-- The project was completed in teams of two students and hosted on GitHub Classroom.
-- Personal repositories were not graded; only team repositories were evaluated.
-- Students were advised to follow Git and GitHub best practices, including using branches for each feature.
-- Collaboration between team members was encouraged, but individual contributions were expected.
-- Regular meetings were recommended to track progress and adjust deadlines or tasks if necessary.
-- Students were advised to maintain professionalism in their collaboration, as partners could be future coworkers or job references
